@@ -1,6 +1,18 @@
-#
+# 1
 
 Talk about an experience of getting lost in an unfamiliar place. Maybe you can talk about losing your way in a new city, getting separated from a group during a trip, or wandering into an unknown neighborhood. What happened, how did you feel during the experience, and why is it memorable to you?
+
+## Sample
+
+Considering my personal history, I’ve faced a similar situation before regarding getting lost in a vast city that was quite formidable. [103, 141, history]
+Initially, I felt an overwhelming sense of dread because my phone battery died
+. I was almost petrified and nearly chickened out of exploring further because the adversity seemed abysmal
+.
+Nevertheless, I decided to pull myself together rather than acting on impulsive urges [99, 159, history]. I maintained a rigorous focus to ensure I didn't mess up my directions even more
+.
+Undoubtedly, when I finally tracked down my hotel, I felt absolutely ecstatic
+. It was a gratifying lesson that taught me how to prosper even in turbulent times
+.
 
 #
 

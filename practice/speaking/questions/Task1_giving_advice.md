@@ -1,6 +1,19 @@
-#
+# 1
 
 Your co-worker has been offered a promotion at work, but it requires him to relocate to another city. He is unsure whether to accept the offer or stay in his current position. Advise him on what he should consider when making this decision.
+
+## Sample
+
+Hi John, how have you been? It feels like ages since we last caught up!
+I heard about the promotion offer you’re currently mulling over and wanted to share some insights based on my own experiences.
+First and foremost, considering your long-term career ambition is vital.
+Given that this role requires you to relocate, you should mull over how this new position will help you prosper in our industry over the next few years.
+Indeed, if the role aligns with your goals, it’s a valuable opportunity you shouldn't pass up.
+Furthermore, it’s important to be efficient regarding your personal life.
+Rather than getting carried away by the excitement of a new title, try to sort out the details of the cost of living in the new city.
+You want to ensure you can maintain a stellar lifestyle without facing an abysmal financial situation later on.
+Additionally, you gotta visualize success. Provided that you stay on the ball and research the new area properly, this transition will eventually become a piece of cake.
+I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
 
 #
 
