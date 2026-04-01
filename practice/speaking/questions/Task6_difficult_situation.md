@@ -14,12 +14,13 @@ Talk to Tom. Explain why he needs to improve his work performance quickly.
 
 ## Sample
 
-Tom, I’m glad we can chat about this. [History] I need to be direct with you because it’s a bit of a tough situation, and I want to make sure we’re both happy
-.
-Given that things are a little chaotic right now regarding the frequent mistakes you've been making, I really think we should hold off on any more delays [1, History].
-Rather than continuing this way and messing up your position at the bakery, it’s vital that we sort out your training properly starting today [History].
-I know you're going through a difficult time, but I’m really just looking out for your best interests so we don't end up with a total mess [History].
-I hope you don't hold this against me, but I truly believe this is the best way to straighten things out for everyone and ensure you can keep this job [History].
+Tom, I’m glad we can chat about this. I need to be direct with you because it’s a bit of a tough situation, and I want to make sure we’re both happy.
+
+Given that things are a little chaotic right now regarding the frequent mistakes you've been making, I really think we should hold off on any more delays.
+
+Rather than continuing this way and messing up your position at the bakery, it’s vital that we sort out your training properly starting today. I know you're going through a difficult time, but I’m really just looking out for your best interests so we don't end up with a total mess.
+
+I hope you don't hold this against me, but I truly believe this is the best way to straighten things out for everyone and ensure you can keep this job.
 
 # 2
 
@@ -37,11 +38,14 @@ Talk to your parents. Explain why this weekend may not be the best time for thei
 
 ## Sample
 
-Hi Mom and Dad, I’m so glad you called. I need to be honest with you because it’s a bit of a tough situation, and I want to make sure your visit is actually enjoyable. [History, 21]
-Given that my roommate Kevin already locked in plans for a get-together with his friends this Saturday, things are going to be a little chaotic at the apartment [1, 3, History]. I really think we should hold off on your visit for just a moment
-.
+Hi Mom and Dad, I’m so glad you called. I need to be honest with you because it’s a bit of a tough situation, and I want to make sure your visit is actually enjoyable.
+
+Given that my roommate Kevin already locked in plans for a get-together with his friends this Saturday, things are going to be a little chaotic at the apartment. I really think we should hold off on your visit for just a moment.
+
 Rather than you arriving and ending up with a total mess because of the noise, it’s vital that we sort out a better weekend so we can actually have the quiet time you’re expecting [9, 15, History].
-I’m not trying to be abrupt, but I’m really just looking out for your comfort so we don't have a debacle where you can't even relax [History].
+
+I’m not trying to be abrupt, but I’m really just looking out for your comfort so we don't have a debacle where you can't even relax.
+
 I hope you don't hold this against me, but I truly believe this is the best way to straighten things out so we can have a truly superb weekend together very soon [15, 12, History].
 
 # 3
@@ -60,13 +64,17 @@ Talk to your father. Explain why celebrating at the restaurant with all the rela
 
 ## Sample
 
-Mom, I’m glad we can chat about this. [14, History] I need to be honest with you because it’s a bit of a tough situation, and I want to make sure we’re both happy. [14, History]
-Given that Dad is still recovering from his knee surgery, things are a little chaotic for him physically right now [5, History]. I really think we should hold off on the big restaurant celebration for a moment. [History]
-Rather than pushing him to go out and potentially messing up his recovery, it’s vital that we sort out a small, quiet dinner at home where he can relax comfortably [17, History].
-I’m not trying to be abrupt, but I’m really just looking out for his well-being so we don't end up with a total mess on your special day [15, History].
-I hope you don't hold this against me, but I truly believe this is the best way to straighten things out so we can all have a truly superb anniversary celebration together [History].
+Mom, I’m glad we can chat about this. I need to be honest with you because it’s a bit of a tough situation, and I want to make sure we’re both happy.
 
-#
+Given that Dad is still recovering from his knee surgery, things are a little chaotic for him physically right now [5, History]. I really think we should hold off on the big restaurant celebration for a moment.
+
+Rather than pushing him to go out and potentially messing up his recovery, it’s vital that we sort out a small, quiet dinner at home where he can relax comfortably.
+
+I’m not trying to be abrupt, but I’m really just looking out for his well-being so we don't end up with a total mess on your special day.
+
+I hope you don't hold this against me, but I truly believe this is the best way to straighten things out so we can all have a truly superb anniversary celebration together.
+
+# 4
 
 Your family has a traditional Sunday dinner together every week. Your teenage daughter constantly uses her mobile phone during dinner time, which disrupts family conversations. Your spouse wants to ban phones completely during dinner, but your daughter argues she needs to be available for her part-time job messages.
 
@@ -75,6 +83,19 @@ EITHER
 Talk to your spouse. Explain why you think a complete phone ban during dinner isn't the best solution.
 OR
 Talk to your daughter. Explain why she needs to limit her phone use during family dinner time.
+
+## Sample
+
+Honey, this might be a difficult discussion, but I need to be direct with you regarding the mobile phone situation during our Sunday dinners.
+It’s a unique situation, but it’s crucial for you to understand why I believe a complete phone ban isn't the best solution right now.
+First and foremost, I think what it boils down to is the need for a realistic compromise rather than a rigid rule.
+Given that our daughter is now taking on the responsibility of a part-time job, she is struggling to balance her professional commitments with our family traditions.
+Rather than enforcing a strict ban that might cause a break down in our relationship with her, I believe we should lighten up slightly and allow her to keep the phone nearby only for urgent work-related alerts.
+Furthermore, being too strict might turn her off from wanting to participate in these family gatherings at all.
+Provided that she agrees to limit her usage strictly to job messages and keeps the phone face down otherwise, we can still ensure our conversations remain the priority.
+We need to ensure she doesn't feel like she's under our thumb, but rather that she is a trusted member of the family.
+I apologize if this comes across as upsetting, but my intentions are rooted in the well-being of our family harmony.
+Do you find my arguments convincing? Let me know your thoughts!
 
 #
 

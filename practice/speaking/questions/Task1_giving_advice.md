@@ -6,44 +6,98 @@ Your co-worker has been offered a promotion at work, but it requires him to relo
 
 Hi John, how have you been? It feels like ages since we last caught up!
 I heard about the promotion offer you’re currently mulling over and wanted to share some insights based on my own experiences.
+
 First and foremost, considering your long-term career ambition is vital.
-Given that this role requires you to relocate, you should mull over how this new position will help you prosper in our industry over the next few years.
-Indeed, if the role aligns with your goals, it’s a valuable opportunity you shouldn't pass up.
-Furthermore, it’s important to be efficient regarding your personal life.
-Rather than getting carried away by the excitement of a new title, try to sort out the details of the cost of living in the new city.
-You want to ensure you can maintain a stellar lifestyle without facing an abysmal financial situation later on.
+Given that this role requires you to relocate, you should mull over how this new position will help you prosper in our industry over the next few years. Indeed, if the role aligns with your goals, it’s a valuable opportunity you shouldn't pass up.
+
+Furthermore, it’s important to be efficient regarding your personal life. Rather than getting carried away by the excitement of a new title, try to sort out the details of the cost of living in the new city. You want to ensure you can maintain a stellar lifestyle without facing an abysmal financial situation later on.
+
 Additionally, you gotta visualize success. Provided that you stay on the ball and research the new area properly, this transition will eventually become a piece of cake.
+
 I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
 
-#
+# 2
 
 Your co-worker has been offered the opportunity to lead a team project at work, but he is nervous because he has never managed other people before. Give him advice on how he can prepare to be a good team leader.
 
-#
+## Sample
+
+Hi John, how have you been? It feels like ages since we last caught up!
+I heard about the leadership opportunity you’re currently mulling over and wanted to share some insights based on my own experiences.
+
+First and foremost, preparation is vital. Given that you’ve never managed people before, you should brush up on your management skills to ensure everything goes swiftly. I recommend you rehearse your first team meeting so you can lead with aplomb.
+
+Furthermore, try to sort out the project details with a rigorous focus. Rather than getting carried away by your nerves, stay on the ball by setting clear, unambiguous goals for your crew. This efficient approach will help you attain a stellar result.
+
+Additionally, you gotta visualize success. Provided that you stay proactive and don't chicken out, managing this enterprise will eventually become a piece of cake.
+
+I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
+
+# 3
 
 Your friend wants to organize a shared cottage rental with a group of friends for a long weekend this summer. She has never planned a group trip before and is worried about things going wrong. Give her advice on how to plan the trip and avoid potential problems.
 
-#
+## Sample
+
+Hi John, how have you been? It feels like ages since we last caught up!
+I heard about the challenges you're currently facing regarding the cottage rental and wanted to share some insights based on my own experiences.
+
+First and foremost, early preparation is vital. Given that it is a long weekend in the summer, the best locations tend to sell out quickly. You should lock in a rental and a specific date as soon as possible to ensure everything goes swiftly. I recommend you look over the property details carefully so there are no surprises upon arrival.
+
+Furthermore, try to sort out the financial details with your crew. Rather than getting carried away by the excitement and facing a financial debacle later, you should point out the exact costs per person upfront. This efficient approach will help your group prosper and enjoy the trip without any bitter misunderstandings.
+
+Additionally, you gotta visualize success. Provided that you stay on the ball and remain proactive , managing this enterprise will eventually become a piece of cake. Don't let the pressure paralyze you; just stay focused on the logistics.
+
+I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
+
+# 4
 
 Your neighbour is considering hosting an international exchange student in her home for a semester. She has a spare bedroom but has never had a long-term guest before. Give her advice on what she should consider and how to prepare for hosting an exchange student.
 
-#
+## Sample
+
+Hi John, how have you been? It feels like ages since we last caught up!
+I heard about the opportunity you’re currently mulling over regarding hosting an international student and wanted to share some insights based on my own experiences.
+
+First and foremost, preparing the living environment is vital. Given that you have never had a long-term guest, you should look over the spare bedroom to ensure it is in sanitary condition and feels cozy. It is also integral to put together a simple outline of house rules to avoid any utter confusion regarding daily routines.
+
+Furthermore, you should brush up on the student’s cultural background to ensure you get along well. Rather than getting carried away by the pressure of being a perfect host, focus on providing an authentic and superb experience for them. This efficient approach will help the relationship prosper throughout the semester.
+
+Additionally, you gotta visualize success. Provided that you stay on the ball and look out for their well-being, hosting this guest will eventually become a piece of cake. Don't let the formidable task of a long-term stay paralyze you; just stay proactive.
+
+I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
+
+# 5
 
 Your neighbour has a lot of unused items in her house and is thinking about hosting a garage sale this weekend. She has never organized one before and is unsure how to attract buyers. Advise her on how to plan and run a successful garage sale
 
-#
+## Sample
+
+Hi John, how have you been? It feels like ages since we last caught up!
+I heard about the garage sale you’re currently mulling over and wanted to share some insights based on my own experiences.
+
+First and foremost, preparation is vital. Given that this is your first time, you should sort out your unused items into specific groups to ensure everything goes swiftly.
+I recommend you beef up your inventory by checking for any surplus goods in the attic to make the display look more abundant.
+
+Furthermore, you need a proactive strategy to attract buyers. Rather than just waiting for people to drop in by chance, you should print out eye-catching flyers to unveil the event to the whole community. Ensure your signs are unambiguous so that potential buyers can track down your location with great aplomb.
+
+Additionally, you gotta visualize success. Provided that you stay on the ball regarding fair pricing and don't get carried away by the sentimental value of your items, this enterprise will eventually become a piece of cake. Don't let the formidable task paralyze you; just stay focused.
+
+I sincerely hope you find these recommendations helpful. Can’t wait to hear back from you! Take care!
+
+# 6
 
 Your friend wants to learn English vocabulary well and remember it, but she finds it difficult. Give her advice on what she should do.
 
-#
+# 7
 
 Your friend wants to buy a new car but isn’t sure which type to choose. Give your friend some advice.
 
-#
+# 8
 
 Your colleague has been experiencing a lot of stress at work due to increasing responsibilities and tight deadlines. She wants to find healthy ways to manage her stress without compromising her performance. Give her advice on different strategies she could use to handle work-related stress effectively.
 
-#
+# 9
 
 Your friend is trying to save money for a trip abroad next year. Give your friend advice on effective ways to save money over the next few months.
 

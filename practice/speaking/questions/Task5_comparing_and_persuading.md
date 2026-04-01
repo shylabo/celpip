@@ -24,12 +24,12 @@ Your Teammate's Suggestion: Plain Discount T-Shirts
 
 ## Sample
 
-Hi there, glad to talk to you again! Deciding between these jersey options is certainly a tough choice; nevertheless, it’s clear that the Premium Embroidered Jerseys provide a more advantageous option. [113, history]
-First and foremost, quality is vital for our hockey team
-. Your suggestion of plain T-shirts might seem economical, but they are thin cotton and not designed for sports, so we would likely mess them up in just one game [84, 108, history]. Rather than ending up with a total debacle, my choice uses breathable fabric that will help us stay on the ball [66, 128, history].
-Furthermore, we want our team to prosper and look professional
-. Plain white shirts are a bit abysmal for team spirit because they have no logo
-. Given that we want to straighten things out regarding our team identity, having high-quality stitched numbers is a substantial benefit [154, 36, history].
+Hi there, glad to talk to you again! Deciding between these jersey options is certainly a tough choice; nevertheless, it’s clear that the Premium Embroidered Jerseys provide a more advantageous option.
+
+First and foremost, quality is vital for our hockey team. Your suggestion of plain T-shirts might seem economical, but they are thin cotton and not designed for sports, so we would likely mess them up in just one game. Rather than ending up with a total debacle, my choice uses breathable fabric that will help us stay on the ball.
+
+Furthermore, we want our team to prosper and look professional. Plain white shirts are a bit abysmal for team spirit because they have no logo. Given that we want to straighten things out regarding our team identity, having high-quality stitched numbers is a substantial benefit.
+
 Do you think my points make sense? Let me know your thoughts!
 
 # 2
@@ -56,7 +56,18 @@ Your Spouse's Choice: Fancy Downtown Restaurant
 • limited children's menu options
 • no play area or entertainment provided
 
-#
+## Sample
+
+Hi there! Deciding between these party venues is certainly a tough choice; nevertheless, it’s clear that the Community Recreation Centre provides a more advantageous option.
+
+First and foremost, the restaurant is quite pricey, costing a hefty fare of $500 while only accommodating 12 kids
+. Given that we have 15 guests to host, it would be an abysmal situation to leave some children out. Rather than struggling to cut the guest list, my choice accommodates up to 20 kids for a much more economical price, ensuring everyone can join the fun.
+
+Furthermore, the formal restaurant setting with breakable dishes would likely result in a total debacle with fifteen energetic 8-year-olds. Instead, the community center offers access to a large gym for open play, which is vital for this age group. Provided that we stay on the ball with the food and decorations, the festivity will be a stellar success.
+
+Do you think my points make sense? Let me know your thoughts!
+
+# 3
 
 You are moving to a new apartment across town next month and need to transport all of your furniture and belongings.
 You found two suitable options. Choose the option that you prefer.
@@ -80,7 +91,19 @@ Your Friend's Suggestion: Borrowing a Neighbour's Pickup Truck
 • no insurance for lost or damaged items
 • only available on a weekday when you would need to take time off work
 
-#
+## Sample
+
+Hi there! Deciding between these moving options is certainly a tough choice; nevertheless, it’s clear that the Rental Moving Truck provides a more advantageous option.
+
+First and foremost, efficiency is vital. Given that the large rental truck can fit all my furniture in one trip, the entire process will proceed swiftly. Rather than struggling through at least six exhausting trips across town with a small pickup bed, my choice ensures we stay on the ball and finish the task quickly.
+
+Furthermore, we must consider the professional and financial consequences of our timing. Rather than being forced to take valuable time off work on a weekday, my choice allows for a more prosperous use of my schedule.
+
+Additionally, since the neighbour's truck has no insurance, any accident during the transfer of my belongings could result in an abysmal financial debacle.
+
+Do you think my points make sense? Let me know your thoughts!
+
+# 4
 
 You work at a local grocery store and are responsible for selecting fruit baskets to feature in the front display. You have two options to choose from. Decide which one you prefer and in the next section, persuade your manager that your choice is the better option.
 
@@ -105,7 +128,17 @@ Premium Organic Basket
 • Higher price point
 • Appeals to health-conscious customers
 
-#
+## Sample
+
+Hi there! Deciding between these fruit basket options for our front display is certainly a tough choice; nevertheless, it’s clear that the Discounted Fruit Basket provides a more advantageous option for our store right now.
+
+First and foremost, operational efficiency is vital when managing our inventory. Given that your suggested Premium Organic Basket has a much higher price point, it might not move as quickly as we need for a front-of-store feature. Rather than risking a slow turnover with expensive items, my choice is attractively priced for a quick sale, which will ensure a tremendous amount of traffic and immediate revenue.
+
+Furthermore, selecting the discounted option is an efficient way to sort out our slightly overripe stock and significantly reduce waste. Since we want the store to prosper while maintaining a proactive approach to inventory management, this strategy represents a win-win for both our margins and our value-seeking customers. While the organic local produce is visually appealing, the discounted basket serves an integral purpose in clearing our current surplus.
+
+Do you think my points make sense? Let me know your thoughts!
+
+# 5
 
 You are part of a student art committee organizing an end-of-year exhibition for student artwork. You have found two possible venues. Choose the option that you prefer. In the next section, you will need to persuade the committee president that your choice is the better choice.
 
@@ -128,6 +161,16 @@ Committee President's Choice: Local Community Center
 • basic fluorescent lighting
 • only open weekends
 • limited wall space for hanging artwork
+
+## Sample
+
+Hi there! Deciding between these exhibition venues is certainly a tough choice; nevertheless, it’s clear that the University Main Hall provides a more advantageous option for our student artists.
+
+First and foremost, accessibility is vital. Given that the local community center is only open on weekends, the reach of our exhibition would be abysmal for the majority of students and staff who are on campus during the week. Instead, the Main Hall offers 24/7 access, ensuring our crew of artists receives maximum exposure throughout the entire four-week duration.
+
+Furthermore, the quality of the display space is an integral consideration. Rather than struggling with basic fluorescent lighting and limited wall space that could mess up the visual impact of the art, the University Main Hall provides a large open space with beautiful natural lighting. While there is a $200 rental fee, the opportunity for our students to prosper and showcase their work in a stellar environment for a longer period is a much more efficient use of our budget.
+
+Do you think my points make sense? Let me know your thoughts!
 
 #
 

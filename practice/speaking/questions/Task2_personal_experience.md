@@ -4,31 +4,70 @@ Talk about an experience of getting lost in an unfamiliar place. Maybe you can t
 
 ## Sample
 
-Considering my personal history, I’ve faced a similar situation before regarding getting lost in a vast city that was quite formidable. [103, 141, history]
-Initially, I felt an overwhelming sense of dread because my phone battery died
-. I was almost petrified and nearly chickened out of exploring further because the adversity seemed abysmal
-.
-Nevertheless, I decided to pull myself together rather than acting on impulsive urges [99, 159, history]. I maintained a rigorous focus to ensure I didn't mess up my directions even more
-.
-Undoubtedly, when I finally tracked down my hotel, I felt absolutely ecstatic
-. It was a gratifying lesson that taught me how to prosper even in turbulent times
-.
+Considering my personal history, I’ve faced a similar situation before regarding getting lost in a vast city that was quite formidable.
 
-#
+Initially, I felt an overwhelming sense of dread because my phone battery died. I was almost petrified and nearly chickened out of exploring further because the adversity seemed abysmal.
+
+Nevertheless, I decided to pull myself together rather than acting on impulsive urges. I maintained a rigorous focus to ensure I didn't mess up my directions even more.
+
+Undoubtedly, when I finally tracked down my hotel, I felt absolutely ecstatic. It was a gratifying lesson that taught me how to prosper even in turbulent times.
+
+# 2
 
 Talk about an experience where you won something you did not expect. Maybe you can talk about winning a raffle or lucky draw, a competition or contest you entered for fun, or a casual game with friends or family. What did you win, how did it make you feel, and why was it memorable?
 
-#
+## Sample
+
+Considering my personal history, I’ve faced a situation where I unexpectedly won a high-end mountain bike during a local community raffle.
+
+Initially, I only decided to drop in on the event to support a friend. Given that my luck is usually abysmal, I felt a sense of dread thinking I would just be wasting my time.
+
+Nevertheless, when they called my number, I was petrified by the shock; I had actually lucked out! I felt absolutely ecstatic and filled with jubilation as I realized I had won.
+
+Undoubtedly, this experience was memorable and gratifying because I had been facing a formidable commute to work, and this bike felt like a blessing in disguise that arrived out of the blue.
+
+# 3
 
 Talk about an experience where you accidentally broke something that belonged to someone else. Maybe you can talk about breaking a dish at a family gathering, damaging a friend's belongings, or knocking something over at a store or workplace. What did you break, how did you handle the situation, and why do you remember this experience?
 
-#
+## Sample
+
+Considering my personal history, I’ve faced a formidable situation where I accidentally smashed a valuable glass sculpture belonging to my supervisor.
+Initially, while I was trying to put back some files on a shelf, I messed up my balance and caused a complete wreck on his desk. The accident happened out of the blue, and seeing the fragments scattered on the floor felt like a total catastrophe
+. I felt immense pressure because I feared this debacle would ruin my professional reputation.
+Nevertheless, I decided to pull myself together rather than trying to hide the mistake or beat around the bush. Even though I felt an overwhelming sense of dread, I immediately informed my supervisor and offered to make up for the damage by covering the replacement cost. I stayed on the ball by helping to scrape up the mess carefully to ensure no one got hurt.
+Undoubtedly, this experience was memorable and gratifying because my supervisor didn't hold it against me; instead, he respected my honesty. It was a valuable lesson that taught me how to prosper and maintain my aplomb even after a major screw up.
+
+# 4
 
 Talk about running into someone you had not seen in a long time. Maybe you can talk about bumping into an old school friend at a store, seeing a former neighbor while traveling, or reconnecting with a relative at a family gathering. Who did you run into, what happened during your reunion, and how did it make you feel?
 
-#
+## Sample
+
+Considering my personal history, I’ve faced a situation where I unexpectedly ran into a childhood friend after nearly a decade.
+
+Initially, I had just decided to drop in at a local café to brush up on some work [48, 12, history]. Given that we hadn't spoken in ages, seeing him was an absolute shock that happened out of the blue. He appeared to be the epitome of success, and we immediately began to catch up on our lives.
+
+Rather than feeling awkward, we began to relish our old memories and shared a superb conversation [98, 134, history]. I felt absolutely ecstatic to see how much he had prospered over the years.
+
+Undoubtedly, this reunion was gratifying and reminded me how vital it is to maintain long-term connections.
+
+# 5
 
 Talk about something you did that you think was brave. What happened, why do you think it was brave, and how did you feel about it?
+
+### Sample
+
+Considering my personal history, I once faced a situation involving a heated public dispute that was quite formidable.
+
+Initially, I felt an overwhelming sense of dread as I watched two individuals get into a vicious argument.
+I was almost petrified because the atmosphere felt truly abysmal.
+
+Nevertheless, I decided to pull myself together rather than chickening out. Given that someone needed to intervene, I stepped in to break up the fight.
+I knew it was vital to act swiftly before the situation turned into a total debacle.
+
+Undoubtedly, I felt absolutely ecstatic and jubilant once things calmed down. I believe it was brave because I had to surmount my own fear to ensure the safety of others.
+It was a gratifying lesson that taught me how to stay on the ball even in turbulent times.
 
 #
 
