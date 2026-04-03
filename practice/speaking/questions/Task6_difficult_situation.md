@@ -86,17 +86,6 @@ Talk to your daughter. Explain why she needs to limit her phone use during famil
 
 ## Sample
 
-Honey, this might be a difficult discussion, but I need to be direct with you regarding the mobile phone situation during our Sunday dinners.
-It’s a unique situation, but it’s crucial for you to understand why I believe a complete phone ban isn't the best solution right now.
-First and foremost, I think what it boils down to is the need for a realistic compromise rather than a rigid rule.
-Given that our daughter is now taking on the responsibility of a part-time job, she is struggling to balance her professional commitments with our family traditions.
-Rather than enforcing a strict ban that might cause a break down in our relationship with her, I believe we should lighten up slightly and allow her to keep the phone nearby only for urgent work-related alerts.
-Furthermore, being too strict might turn her off from wanting to participate in these family gatherings at all.
-Provided that she agrees to limit her usage strictly to job messages and keeps the phone face down otherwise, we can still ensure our conversations remain the priority.
-We need to ensure she doesn't feel like she's under our thumb, but rather that she is a trusted member of the family.
-I apologize if this comes across as upsetting, but my intentions are rooted in the well-being of our family harmony.
-Do you find my arguments convincing? Let me know your thoughts!
-
 #
 
 You work at a high-end jewelry store. A customer wants to return an expensive necklace that was a gift from her husband. According to store policy, all returns must be made within 30 days of purchase with the original receipt. The necklace was purchased 45 days ago, and the customer doesn't have the receipt because it was a gift. She is very emotional because the necklace reminds her of her recent divorce.
