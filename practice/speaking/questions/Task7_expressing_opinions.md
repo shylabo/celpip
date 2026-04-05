@@ -4,13 +4,13 @@ Do you think landlords should be required by law to allow tenants to keep pets i
 
 ## Sample
 
-**The dialogue surrounding** whether landlords should be required by law to allow pets **is definitely thought-provoking, and after looking at both sides, I’m convinced that** mandating pet-friendly housing **is the way to go.**
+The dialogue surrounding whether landlords should be required by law to allow pets is definitely thought-provoking, and after looking at both sides, I’m convinced that mandating pet-friendly housing is the way to go.
 
-**To begin with,** taking this action is **vital** for making sure our community can **prosper**. **Rather than** sticking with **antiquated** methods that exclude animals, we need to **get behind** new ideas that **unveil** better living standards for everyone. **Given that** many individuals view animals as special family members who accompany them through life, allowing pets is **substantial** for mental well-being. **Indeed**, it’s a **valuable** step toward a more inclusive society.
+To begin with, taking this action is vital for making sure our community can prosper. Rather than sticking with antiquated methods that exclude animals, we need to get behind new ideas that unveil better living standards for everyone. Given that many individuals view animals as special family members who accompany them through life, allowing pets is substantial for mental well-being. Indeed, it’s a valuable step toward a more inclusive society.
 
-**Furthermore,** it’s **evidently clear** that the long-term results will be **superb**. **Given that** we want to avoid any **utter** confusion or a potential **debacle** regarding the housing search for pet owners, implementing this requirement **swiftly** is a smart move. While some owners worry about damage, **provided that** tenants are responsible, we can **pull off** this change without any **abysmal** consequences for the property. **Undoubtedly**, if we stay **on the ball**, this policy will ensure that no one is left out of the rental market.
+Furthermore, it’s evidently clear that the long-term results will be superb. Given that we want to avoid any utter confusion or a potential debacle regarding the housing search for pet owners, implementing this requirement swiftly is a smart move. While some owners worry about damage, provided that tenants are responsible, we can pull off this change without any abysmal consequences for the property. Undoubtedly, if we stay on the ball, this policy will ensure that no one is left out of the rental market.
 
-**In conclusion, it’s indisputably evident that** this choice is **integral** for the next generation. While it might seem like a **formidable** task for some landlords at first, the social benefits clearly **outweigh** the risks.
+In conclusion, it’s indisputably evident that this choice is integral for the next generation. While it might seem like a formidable task for some landlords at first, the social benefits clearly outweigh the risks.
 
 # 2
 
@@ -18,13 +18,13 @@ Do you think restaurants should eliminate tipping and instead include higher wag
 
 ## Sample
 
-**The dialogue surrounding** whether restaurants should eliminate tipping and instead include higher wages in the food price **is definitely thought-provoking, and after looking at both sides, I’m convinced that** this shift **is the way to go**.
+The dialogue surrounding whether restaurants should eliminate tipping and instead include higher wages in the food price is definitely thought-provoking, and after looking at both sides, I’m convinced that this shift is the way to go.
 
-**To begin with,** taking this action is **vital** for making sure local **enterprises** can **prosper**. **Rather than** forcing servers to rely on the unpredictable nature of tips, providing a guaranteed, higher wage ensures their financial stability is **substantial**. **Given that** the cost of living is rising, this is a **valuable** step toward making the service industry a more **robust** career choice. **Indeed**, when employees feel secure, they are more likely to stay **on the ball** and provide **stellar** service.
+To begin with, taking this action is vital for making sure local enterprises can prosper. Rather than forcing servers to rely on the unpredictable nature of tips, providing a guaranteed, higher wage ensures their financial stability is substantial. Given that the cost of living is rising, this is a valuable step toward making the service industry a more robust career choice. Indeed, when employees feel secure, they are more likely to stay on the ball and provide stellar service.
 
-**Furthermore,** it’s **evidently clear** that the long-term results for customers will be **superb**. **Given that** many diners find the current tipping system to be a **formidable** source of **utter** confusion, simplifying the **transaction** by including everything in the price would **unveil** a much more **authentic** and relaxed dining experience. **Undoubtedly**, if restaurant owners manage this transition carefully, they can **pull off** this change and avoid any potential **debacle** regarding customer satisfaction.
+Furthermore, it’s evidently clear that the long-term results for customers will be superb. Given that many diners find the current tipping system to be a formidable source of utter confusion, simplifying the transaction by including everything in the price would unveil a much more authentic and relaxed dining experience. Undoubtedly, if restaurant owners manage this transition carefully, they can pull off this change and avoid any potential debacle regarding customer satisfaction.
 
-**In conclusion, it’s indisputably evident that** this choice is **integral** for the next generation of the hospitality industry. While food prices might **increase** slightly, the benefits of transparency and fair pay clearly **outweigh** the risks, and will **culminate in** a more professional environment for everyone.
+In conclusion, it’s indisputably evident that this choice is integral for the next generation of the hospitality industry. While food prices might increase slightly, the benefits of transparency and fair pay clearly outweigh the risks, and will culminate in a more professional environment for everyone.
 
 # 3
 
@@ -32,13 +32,13 @@ Do you think employers should be allowed to review job applicants' personal soci
 
 ## Sample
 
-**The dialogue surrounding** whether employers should review job applicants' personal social media accounts **is definitely thought-provoking, and after looking at both sides, I’m convinced that** protecting applicant privacy **is the way to go**.
+The dialogue surrounding whether employers should review job applicants' personal social media accounts is definitely thought-provoking, and after looking at both sides, I’m convinced that protecting applicant privacy is the way to go.
 
-**To begin with,** maintaining a clear boundary between personal and professional life is **vital** for making sure our workforce can **prosper**. **Rather than** sticking with **antiquated** methods of character judgment based on private photos, we need to **get behind** new ideas that **unveil** better standards for ethical hiring. **Indeed**, prioritizing professional qualifications over private leisure activities is a **valuable** step toward a fairer future.
+To begin with, maintaining a clear boundary between personal and professional life is vital for making sure our workforce can prosper. Rather than sticking with antiquated methods of character judgment based on private photos, we need to get behind new ideas that unveil better standards for ethical hiring. Indeed, prioritizing professional qualifications over private leisure activities is a valuable step toward a fairer future.
 
-**Furthermore,** it’s **evidently clear** that the long-term results for company culture will be **superb**. **Given that** we want to avoid any **utter** confusion or a potential **debacle** in the workplace due to unconscious bias, implementing strict privacy policies **swiftly** is a smart move. **Undoubtedly**, if we stay **on the ball** and focus on professional performance metrics, we can **pull off** a more **authentic** and productive environment for everyone.
+Furthermore, it’s evidently clear that the long-term results for company culture will be superb. Given that we want to avoid any utter confusion or a potential debacle in the workplace due to unconscious bias, implementing strict privacy policies swiftly is a smart move. Undoubtedly, if we stay on the ball and focus on professional performance metrics, we can pull off a more authentic and productive environment for everyone.
 
-**In conclusion, it’s indisputably evident that** this choice is **integral** for the next generation of professionals. While it might seem like a **formidable** task to change current corporate habits, the benefits of trust and transparency clearly **outweigh** the risks.
+In conclusion, it’s indisputably evident that this choice is integral for the next generation of professionals. While it might seem like a formidable task to change current corporate habits, the benefits of trust and transparency clearly outweigh the risks.
 
 # 4
 
@@ -46,13 +46,13 @@ Do you think cities should provide special public transportation services specif
 
 ## Sample
 
-**The dialogue surrounding** whether cities should provide special public transportation services specifically designed for tourists **is definitely thought-provoking, and after looking at both sides, I’m convinced that** implementing dedicated bus routes and multilingual guides **is the way to go**.
+The dialogue surrounding whether cities should provide special public transportation services specifically designed for tourists is definitely thought-provoking, and after looking at both sides, I’m convinced that implementing dedicated bus routes and multilingual guides is the way to go.
 
-**To begin with,** taking this action is **vital** for making sure our local **enterprises** can **prosper**. **Rather than** sticking with **antiquated** methods that don't work anymore, we need to **get behind** new ideas that **unveil** better opportunities for everyone. **Indeed**, it’s a **valuable** step toward improving the urban **commute** for visitors and residents alike.
+To begin with, taking this action is vital for making sure our local enterprises can prosper. Rather than sticking with antiquated methods that don't work anymore, we need to get behind new ideas that unveil better opportunities for everyone. Indeed, it’s a valuable step toward improving the urban commute for visitors and residents alike.
 
-**Furthermore,** it’s **evidently clear** that the long-term results for the city's reputation will be **superb**. **Given that** we want to avoid any **utter** confusion or a potential **debacle** regarding transit navigation, implementing this plan **swiftly** is a smart move. **Undoubtedly**, if we stay **on the ball**, we can **pull off** this change without any major issues.
+Furthermore, it’s evidently clear that the long-term results for the city's reputation will be superb. Given that we want to avoid any utter confusion or a potential debacle regarding transit navigation, implementing this plan swiftly is a smart move. Undoubtedly, if we stay on the ball, we can pull off this change without any major issues.
 
-**In conclusion, it’s indisputably evident that** this choice is **integral** for the next generation of urban development. While it might seem like a **formidable** task at first, the benefits clearly **outweigh** the risks [72, history].
+In conclusion, it’s indisputably evident that this choice is integral for the next generation of urban development. While it might seem like a formidable task at first, the benefits clearly outweigh the risks [72, history].
 
 # 5
 
@@ -60,13 +60,13 @@ Do you think hospitals should completely ban the use of personal electronic devi
 
 ## Sample
 
-**The dialogue surrounding the topic of** whether hospitals should completely ban personal electronic devices **is definitely thought-provoking, and after looking at both sides, I’m convinced that** allowing their use with proper guidelines **is the way to go**.
+The dialogue surrounding the topic of whether hospitals should completely ban personal electronic devices is definitely thought-provoking, and after looking at both sides, I’m convinced that allowing their use with proper guidelines is the way to go.
 
-**To begin with,** maintaining a connection with loved ones is **vital** for a patient's mental well-being and recovery process. **Rather than** sticking with **antiquated** rules that isolate individuals during their most vulnerable moments, we need to **get behind** modern practices that **unveil** better emotional support systems. **Indeed**, having access to communication tools and entertainment is a **valuable** step toward a more **substantial** and humane healthcare environment.
+To begin with, maintaining a connection with loved ones is vital for a patient's mental well-being and recovery process. Rather than sticking with antiquated rules that isolate individuals during their most vulnerable moments, we need to get behind modern practices that unveil better emotional support systems. Indeed, having access to communication tools and entertainment is a valuable step toward a more substantial and humane healthcare environment.
 
-**Furthermore,** it’s **evidently clear** that a complete ban would lead to **utter** confusion and frustration for patients. **Given that** we want to avoid any potential **debacle** regarding patient satisfaction or emergency family contact, implementing clear **sanitary** guidelines for device use **swiftly** is a much smarter move. **Undoubtedly**, if hospital staff stay **on the ball** by enforcing hygiene protocols, they can **pull off** this policy without any **abysmal** consequences for medical safety.
+Furthermore, it’s evidently clear that a complete ban would lead to utter confusion and frustration for patients. Given that we want to avoid any potential debacle regarding patient satisfaction or emergency family contact, implementing clear sanitary guidelines for device use swiftly is a much smarter move. Undoubtedly, if hospital staff stay on the ball by enforcing hygiene protocols, they can pull off this policy without any abysmal consequences for medical safety.
 
-**In conclusion, it’s indisputably evident that** providing digital access is **integral** for the next generation of patient care. While there are concerns regarding interference, the psychological benefits for those who **suffer** in isolation clearly **outweigh** the risks.
+In conclusion, it’s indisputably evident that providing digital access is integral for the next generation of patient care. While there are concerns regarding interference, the psychological benefits for those who suffer in isolation clearly outweigh the risks.
 
 #
 

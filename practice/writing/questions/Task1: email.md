@@ -1,4 +1,4 @@
-#
+# 1
 
 You are planning a week-long trip to Halifax next month to visit your elderly parents. You have a friendly dog named Biscuit that you cannot bring with you on the trip. Your neighbour has met Biscuit several times and even looked after him for a weekend last summer.
 
@@ -8,7 +8,25 @@ Write an email to your neighbour in about 150-200 words. Your email should do th
 • Describe your dog's daily routine and any special care instructions your neighbour should know about.
 • Offer to do something in return for your neighbour's help.
 
-#
+## Sample
+
+Dear John,
+
+Hopefully, you and your family have been keeping well; it feels incredibly long since we last spoke!
+
+I'm writing to let you know that I'm planning a week-long trip to Halifax to visit my elderly parents from May 11th to May 17th. Since I cannot bring Biscuit with me, I was wondering if you would be open to looking after him again. Given that he had such a wonderful time with you last summer, you were the first person who came to mind!
+
+Regarding his routine, he is quit easy to manage but requires a bit of consistency. He needs a 30-minute walk each morning and a shorter stroll in the evening. Furthermore, he is currently on a specific low-fat diet, so I will provide pre-measured meals to ensure his digestion stays on track.
+
+I would be more than happy to return the favor whenever you need assistance with anything around the house or a lift to the airport. Moreover, I'll be sure to bring back some local treats from the East Coast as a token of my appreciation!
+
+Let's keep this conversation going; I'm easy to contact. Sending lots of love to you and your family!
+
+Best regards,
+
+John Doe
+
+# 2
 
 You recently signed up for a weekend photography workshop at the Waterfront Community Centre in Vancouver. The workshop was advertised as a hands-on, outdoor learning experience led by a professional photographer. However, when you attended, the entire session was held indoors with only slideshow presentations, and the instructor seemed unprepared.
 
@@ -18,7 +36,25 @@ Write an email to the community centre manager in about 150-200 words. Your emai
 • Explain what actually happened during the workshop and how it differed from the advertisement.
 • Request a specific action the community centre should take to resolve your dissatisfaction.
 
-#
+## Sample
+
+Dear Manager,
+
+The purpose of my writing today is to formally express concern regarding the weekend photography workshop held at the Waterfront Community center.
+
+Considering the advertisement, the session was promoted as a hands-on, outdoor, learning experience led by a professional. I signed up with the expectation of gaining authentic field practice to brush up on my photography skills.
+
+Addressing the actual event, it was an utter debacle. Instead of the promised outdoor session, the entire workshop was held indoors, consisting solely of vague slideshow presentations. Furthermore, the instructor appeared lethargic and and unprepared, which truly let me down. This experience was abysmal compared to the stellar quality I anticipated.
+
+Undoubtedly, resolving this matter promptly would help maintain the centre's reputation. Given that the delivery was substandard, I request a full reimbursement to make up for this disappointing experience.
+
+I would be grateful for your timely response to this matter. Thank you for your attention and cooperation.
+
+Sincerely,
+
+John Doe
+
+# 3
 
 You are a regular shopper at a grocery store in your neighbourhood in Mississauga. You have noticed that the store carries very few organic and locally sourced products. Several of your neighbours have expressed the same concern. You believe the store would benefit from expanding its selection to include more of these items.
 
@@ -28,7 +64,25 @@ Write an email to the store manager in about 150-200 words. Your email should do
 • Explain why offering these products would benefit both the store and the community.
 • Suggest how the store could begin introducing these products.
 
-#
+## Sample
+
+Dear Store Manager,
+
+The purpose of my writing today is to bring up a suggestion regarding our store's current product selection. As a regular shopper in this Mississauga neighborhood, I believe there is a tremendous opportunity to expand our inventory.
+
+Addressing the desired products, many residents would appreciate seeing a wider range of organic dairy and locally grown seasonal produce. In particular, stocking pesticide-free vegetables and grass-fed meats would be a stellar addition that aligns with our community's needs.
+
+Considering the community's focus on long-term health, offering these products would be vital. For the store, this shift would undoubtedly enhance its brand reputation and customer loyalty, allowing the business to prosper in a competitive market. Furthermore, providing authentic local goods creates a win-win situation for both the store and regional farmers.
+
+Certainly, you could begin by introducing a small "Local Harvest" display to unveil these items to shoppers. To add to this, a gradual rollout would be an efficient way to assess demand without any abysmal logistical issues.
+
+I am genuinely curious to see whether my suggestions prompt a response from you, and I would truly appreciate your support.
+
+Sincerely,
+
+John Doe
+
+# 4
 
 You recently signed up for a beginner cooking class at a community centre in Calgary. The class was advertised as suitable for people with no prior cooking experience. However, when you attended the first two sessions, the instructor used advanced techniques and complicated recipes that were far beyond a beginner level. Several other participants also struggled to keep up.
 
@@ -38,7 +92,24 @@ Write an email to the community centre program coordinator in about 150-200 word
 • Explain how the difficulty level affected you and other participants.
 • Suggest what the community centre can do to address the situation.
 
-#
+## Sample
+
+Dear Program Coordinator,
+
+The purpose of my writing today is to formally express concern regarding the beginner cooking class held at our community centre.
+
+Considering the advertisement, the session was promoted as suitable for individuals with no prior experience. I signed up with the expectation of leaning rudimentary skills to brush up on my basic cooking. However, the actual experience was an utter debacle. The instructor employed advanced techniques and complicated recipes that were far beyond an amateur level.
+
+Addressing the impact, this approach cause me and other participants to fall behind. We were struggling to catch on to the complex instructions, which truly let us down. This abysmal lack of alignment with the course description left the class in a state of confusion.
+
+Undoubtedly, resolving this matter promptly would help maintain the center's reputation. Given that the delivery was substandard, I request a full reimbursement to make up for this disappointing experience. Alternatively, you could sort out a new curriculum that is more accommodating to true beginners.
+
+I would be grateful for your timely response to this matter.
+
+Sincerely,
+John Doe
+
+# 5
 
 You have been taking the same bus route to commute to work in Ottawa for the past two years. Recently, the local transit authority announced that your bus route will be discontinued and replaced with a new route that adds 30 minutes to your daily commute. This change is scheduled to take effect next month.
 
@@ -47,6 +118,23 @@ Write an email to the local transit authority in about 150-200 words. Your email
 • Describe your current commute and how you depend on the existing bus route.
 • Explain the negative impact the route change will have on your daily schedule.
 • Suggest an alternative solution that could work for both the transit authority and affected commuters.
+
+## Sample
+
+Dear Transit Authority Manager,
+
+The purpose of my writing today is to formally express concern regarding the recent announcement to discontinue my primary bus route next month.
+
+Addressing my current commute, I have utilized this specific service for the past two years to reach my office in Ottawa punctually. Given that this route provides the most direct connection, it has been vital for my daily professional productivity.
+
+Considering the proposed replacement, adding 30 minutes to my commute each way is quite disappointing. This change will have an abysmal impact on my daily schedule, turning a smooth journey into a chaotic ordeal. It is important to note that such a substandard adjustment significantly reduces the reliability of the system for many working residents.
+
+Certainly, there is a more advantageous alternative. Rather than removing the route entirely, I suggest maintaining limited express trips during peak hours. This efficient solution would support commuters' needs while allowing the transit authority to manage its resources effectively.
+
+I am genuinely curious to see whether my suggestions prompt a quick response from you, and I would truly appreciate your support. Thank you for your attentions and cooperation.
+
+Sincerely,
+First Last
 
 #
 
