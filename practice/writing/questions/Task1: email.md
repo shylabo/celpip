@@ -136,7 +136,7 @@ I am genuinely curious to see whether my suggestions prompt a quick response fro
 Sincerely,
 First Last
 
-#
+# 6
 
 You recently took your car to an auto repair shop in Brampton for a routine oil change. When you picked up your car, you noticed a long scratch on the driver's side door that was not there before. Additionally, the mechanic replaced your air filter without consulting you first, adding an unexpected $85 charge to your bill.
 
@@ -146,7 +146,24 @@ Write an email to the manager of the auto repair shop in about 150-200 words. Yo
 • Explain why you are unhappy about the unauthorized repair charge and the damage to your vehicle.
 • Request specific actions the shop should take to resolve both issues.
 
-#
+## Sample
+
+Dear Auto Repair Shop Manager,
+
+The purpose of my writing today is to formally express concern regarding the substandard service I received at your Brampton location yesterday.
+
+Addressing the routine maintenance I requested, I brought my vehicle in strictly for a standard oil change. However, upon retrieving the car, I was dismayed to discover a prominent, deep scratch spanning the driver’s side door that was certainly not present during drop-off. Given that I have always maintained my vehicle’s exterior meticulously, this discovery was incredibly frustrating.
+
+Considering the professional accountability associated with your shop, the situation became even more abysmal when I noticed an unauthorized $85 charge for an air filter replacement. This procedure was performed without my consent or any prior consultation. Such a lack of transparency significantly reduces the reliability of your establishment and places an unfair financial burden on your patrons.
+
+Certainly, there is a more advantageous way to resolve this debacle. Rather than charging for unrequested parts, I request a full reimbursement of the $85 fee. Furthermore, I expect your shop to provide a professional repair of the door damage at no cost to me.
+
+I am genuinely curious to see whether my suggestions prompt a quick response from you, and I would truly appreciate your support. Thank you for your attention and cooperation.
+
+Sincerely,
+First Last
+
+# 7
 
 Your best friend is planning a surprise anniversary party for their parents next month. You want to help organize the event since you have experience in party planning.
 
@@ -156,7 +173,24 @@ Write an email to your friend in about 150-200 words. Your email should do the f
 • Suggest specific ideas for the celebration (decorations, venue, entertainment, etc.)
 • Explain how you can help with the planning and organizing process
 
-#
+## Sample
+
+Dear Sarah,
+
+Hopefully, you and your family have been keeping well; it feels incredibly long since we last spoke!
+
+I heard you're planning a surprise anniversary party for your parents next month, and I'm so ecstatic for them! Since I have tremendous experience from organizing that massive community fundraiser last year, I would be more than happy to help you ensure everything goes smoothly. It was such a gratifying and thrilling achievement for me, and I would love to share those insights with you to successfully pull off this celebration!
+
+Given that your parents appreciate a lively atmosphere, I suggest we find a venue with a cozy, local feel where guests can comfortably mingle and dine. Furthermore, arranging some unique entertainment, like a professional tango performance, along with antique-style floral decorations, would add a wonderful flair to the festivities.
+
+When it comes to the logistics, I can help you find the most efficient way to sort out the guest list and vendor services. Organizing such a significant enterprise can be a struggle, but resolving those details early is vital for a successful surprise!
+
+Let's keep this conversation going; I'm easy to contact. Sending lots of love to you and your family!
+
+Best regards,
+First
+
+# 8
 
 Your friend helped you move to your new apartment last weekend. They spent the entire day helping you pack, load, and unload boxes, and even helped you arrange furniture. You want to express your gratitude.
 
@@ -166,19 +200,49 @@ Write an email to your friend in about 150-200 words. Your email should do the f
 • Describe how their help made a difference to your moving experience
 • Suggest a way to show your appreciation (like treating them to dinner or helping them with a future project)
 
-#
+## Sample
+
+Dear Mark,
+
+Hopefully, you have been keeping well since we last saw each other; I still cannot believe how much we managed to accomplish last weekend!
+
+I am writing today to express my deepest gratitude for your tremendous assistance during my move to the new apartment. Since you spent the entire day diligently helping me pack, load, and unload those heavy boxes—and even assisted in meticulously arranging the furniture—the transition was far more manageable than I had anticipated. It was such a gratifying and thrilling achievement to see the entire living room fully set up by Sunday evening!
+
+Given that moving often results in utter confusion and a potential logistical debacle, your help was truly vital for my peace of mind. Rather than me struggling alone with a mountain of disorganized belongings, your presence ensured the entire process was efficient and robust. Indeed, having you there made a substantial difference, turning what could have been a formidable ordeal into a smooth and successful experience.
+
+When it comes to showing my appreciation, I would be ecstatic to treat you to a superb dinner at that new bistro downtown next week. Let’s keep this conversation going; I’m easy to contact. Sending lots of love to you!
+
+Best regards,
+First
+
+# 9
 
 Your friend took many beautiful photos during your group vacation last month. She promised to share them with you, but you haven't received them yet. You want to use some of these photos to create a vacation album.
 
 Write an email to your friend in about 150-200 words. Your email should do the following things:
 
 • Remind her about the specific photos you want (for example, sunset at the beach, group dinner, hiking moments)
-
 • Explain why these photos are important to you and what you plan to do with them
-
 • Suggest a convenient way for her to share the photos with you
 
-#
+## Sample
+
+Dear Sarah,
+
+Hopefully, you and your family have been keeping well; it feels incredibly long since we last spoke!
+
+I am writing today to follow up on the magnificent photos you captured during our group getaway last month. Since I have tremendous experience in digital scrapbooking, I am eager to start compiling a robust vacation album to commemorate our trip. It would be such a gratifying and thrilling achievement to have our memories preserved in a professional-grade layout that we can all cherish!
+
+Given that you have a particular talent for photography, I was especially hoping to include your vivid shots of the sunset at the beach and those candid hiking moments. These specific images are integral for capturing the true essence of our journey. Rather than letting these memories stay hidden in digital storage, I want to ensure we possess a tangible keepsake that rivals a high-quality art book.
+
+When it comes to the logistics, I suggest finding the most efficient way to share the high-resolution files. Perhaps you could upload them to a shared cloud folder? Sorting out this transfer early is vital for me to pull off the album design by next month.
+
+Let's keep this conversation going; I'm easy to contact. Sending lots of love to you and your family!
+
+Best regards,
+First
+
+# 10
 
 Your cousin recently moved to a new city for university studies and is feeling homesick and struggling to adjust to their new life. You want to share your own experience of when you moved away for studies and how you overcame similar challenges.
 
@@ -187,6 +251,23 @@ Write an email to your cousin in about 150-200 words. Your email should do the f
 • Share your personal experience of dealing with homesickness when you first moved away
 • Provide specific suggestions on how to meet new people and get involved in campus activities
 • Offer to help them connect with other family members who live in their new city
+
+## Sample
+
+Dear James,
+
+Hopefully, you have been keeping well; it feels incredibly long since we last spoke!
+
+I heard about the difficulties you're currently facing with homesickness, and I wanted to share some insights based on my own history. Since I dealt with a similar sense of utter confusion and melancholic feelings when I first moved away for my studies, I would be more than happy to help you navigate this transition. It was such a formidable challenge for me initially, but overcoming that period of isolation was a truly gratifying achievement!
+
+Given that building a supportive community is vital for your well-being, I suggest you look into campus clubs that align with your particular interests, such as the amateur photography group or a sports league. Furthermore, attending orientation mixers or volunteering for student events would provide a plethora of opportunities to meet like-minded peers and brush up on your social skills.
+
+When it comes to finding a sense of belonging, I can help you connect with our Uncle David and Aunt Sarah, who both reside in your new city. Reaching out to them early is substantial for establishing a reliable local support network so you don't feel like a pariah in an unfamiliar environment.
+
+Let’s keep this conversation going; I’m easy to contact. Sending lots of love to you!
+
+Best regards,
+First
 
 #
 
