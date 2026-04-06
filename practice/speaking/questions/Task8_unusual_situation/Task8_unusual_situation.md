@@ -1,5 +1,7 @@
 # 1. 未来的な家具 (Futuristic Furniture):
 
+![Futuristic Furniture](./images/1-Futuristic%20Furniture.png)
+
 Hi there, I’ve got something intriguing to share with you. I’m looking at something quite bizarre right now.
 
 I'm standing in a design gallery and I've encountered a very futuristic piece of furniture that seems to possess a radiant glow. Honestly, it’s an exceptional sight!
